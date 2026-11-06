@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>811378565824-50sc1u2agql1us5kmc1fnvpib1vpb82g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.811378565824-50sc1u2agql1us5kmc1fnvpib1vpb82g</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>811378565824-j61lvcgsa2huu66et07c2f4dvvugrruk.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDrOvsLCLP75TLSnaJzsbJUIhpJk5kTIhE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>811378565824</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.goal.vantage</string>
+	<key>PROJECT_ID</key>
+	<string>pitchiq-bets</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pitchiq-bets.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:811378565824:ios:2109f1b2acef3738b30325</string>
+</dict>
+</plist>

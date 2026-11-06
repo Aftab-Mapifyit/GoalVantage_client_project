@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811378565824",
+    "project_id": "pitchiq-bets",
+    "storage_bucket": "pitchiq-bets.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811378565824:android:14fc15d765df8396b30325",
+        "android_client_info": {
+          "package_name": "com.goal.vantage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811378565824-s8cak387468agv37s94sc4s0fsk1jqsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs8TCzu8JHiM4be8DSebvWRQSgpHZlC48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811378565824-s8cak387468agv37s94sc4s0fsk1jqsq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
